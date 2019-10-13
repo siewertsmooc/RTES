@@ -1,5 +1,6 @@
 //
 // Sequencer Generic to emulate Example 0 assuming millisec time resolution
+// * http://ecee.colorado.edu/~ecen5623/ecen/rtpapers/archive/PAPERS_READ_IN_CLASS/Timing_Diagrams_Updated_2018/sched-example-0-safe-within-LUB-disharmonic.xlsx
 //
 // Service_1, S1, T1=2,  C1=1, D=T
 // Service_2, S2, T2=10, C2=1, D=T
